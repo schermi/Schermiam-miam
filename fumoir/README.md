@@ -2,7 +2,7 @@
 ## Fumoir
 ### Le matériel :
 
-* Planches de coffrage (non traitée):
+* Planches de coffrage (non traitées):
 	* ici 12 planche 27*200 sur 4m de long
 
 * Tasseaux de 65*65 pour les angles
