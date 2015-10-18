@@ -10,3 +10,6 @@
 
 * Dimensions :
 	* 800*800 à l'intérieur sur 2m de haut
+* Photos :
+![fumoir](https://github.com/schermi/Schermiam-miam/raw/master/fumoir/IMG_1864.JPG)
+![fumoir](https://github.com/schermi/Schermiam-miam/raw/master/fumoir/IMG_1863.JPG)
