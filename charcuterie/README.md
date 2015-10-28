@@ -1,5 +1,5 @@
 # La charcuterie
 * Coppa
 * [Lonzu] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/lonzu)
-* [Jambon fumé] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie)
-* [Lard] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie)
+* [Jambon cuit] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/jambon_cuit)
+* [Lard] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/lard)
