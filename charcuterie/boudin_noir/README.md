@@ -1,6 +1,6 @@
 # Boudin noir
 * Les ingrédients:
-        * 2,5 kg d'oignons
+	* 2,5 kg d'oignons
 	* 200 g de porc plutôt gras
 	* 3 l de sang de porc
 	* 25 g de sel

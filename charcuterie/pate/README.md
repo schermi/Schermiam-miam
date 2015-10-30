@@ -1,6 +1,6 @@
 # Pâté         
 * Les ingrédients :
-        * 2,8 kg de porc plutôt gras
+	* 2,8 kg de porc plutôt gras
 	* 39 g de sel
 	* 5 g de poivre
 	* 5 g de coriandre
