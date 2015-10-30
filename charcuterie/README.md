@@ -1,5 +1,9 @@
 # La charcuterie
+* [Boudin noir] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/boudin_noir)
+* [Coppa] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/coppa)
 * [Lonzu] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/lonzu)
 * [Jambon cuit] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/jambon_cuit)
 * [Jambon fumé] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/jambon_fume)
 * [Lard] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/lard)
+* [Pâté] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/pate)
+* [Rillettes] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/rillettes)
