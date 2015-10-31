@@ -1,10 +1,10 @@
 # Saucissons à l'ail
 * Ingrédients:
-        * 2 kg de porc assez gras
-        * 60 g de sel
-        * 6 g de poivre
+	* 2 kg de porc assez gras
+	* 60 g de sel
+	* 6 g de poivre
 	* 10 g de sucre
-	* 50 g d'ail fin
+	* 10 g d'ail fin
 	* 15 g de poivre en grain
 	* 100 g de cognac
 	* 6 g d'ail gros

@@ -7,3 +7,4 @@
 * [Lard] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/lard)
 * [Pâté] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/pate)
 * [Rillettes] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/rillettes)
+* [Saucissons] (https://github.com/schermi/Schermiam-miam/tree/master/charcuterie/saucissons)

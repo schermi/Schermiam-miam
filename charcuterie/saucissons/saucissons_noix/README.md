@@ -1,6 +1,6 @@
 # Saucissons porc noix
 * Ingrédients:
-        * 1,5 kg de porc assez gras
+	* 1,5 kg de porc assez gras
 	* 60 g de noix
         * Pour 500g de viande:
                 * 15 g de sel

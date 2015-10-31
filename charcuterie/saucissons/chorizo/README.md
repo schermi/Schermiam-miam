@@ -1,6 +1,6 @@
 # Chorizo
 * Ingrédients:
-        * 2,5 kg de porc assez gras
+	* 2,5 kg de porc assez gras
 	* 10 g de poivre
 	* 5 g de piment de cayenne
 	* 5 g de piment doux
