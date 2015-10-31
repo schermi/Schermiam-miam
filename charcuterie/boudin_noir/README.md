@@ -7,3 +7,11 @@
 	* 12 g de poivre
 	* du persil plat
 	* 1 cc de piment
+	* du saindoux
+* Préparation
+	* Faites revenir les oignons hachez en dés dans le saindoux
+	* Hachez la viande
+	* Hachez le persil et mélangez le tout dans un récipient
+	* Embossez le tout dans du boyaux de porc
+	* Faites cuir dans une casserole d'eau fremissante (attention il ne faut pas de bouillon) pendant 20 à 30 minutes
+	* Réservez au frais
