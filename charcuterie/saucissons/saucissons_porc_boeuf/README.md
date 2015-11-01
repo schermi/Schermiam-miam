@@ -14,3 +14,5 @@
 	* Mettez les saucissons au séchage une nuit
 	* Étuvez les saucissons à 60 °C 10-20 min
 	* Pendant au moins 15 jours laissez sécher et fumez un à deux jours pendant ce temps
+
+![saucisson de papi](https://github.com/schermi/Schermiam-miam/raw/master/charcuterie/saucissons/saucissons_porc_boeuf/IMG_1909.JPG)

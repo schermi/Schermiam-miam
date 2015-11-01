@@ -11,3 +11,5 @@
 * Cuisson :
 	* Pour la cuisson dans plat à terrine, comptez entre 30 et 40 min à 180 °C
 	* Pour la cuisson en conserve, comptez 2h après les premiers bouillons
+
+![pâté](https://github.com/schermi/Schermiam-miam/raw/master/charcuterie/pate/IMG_1900.JPG)

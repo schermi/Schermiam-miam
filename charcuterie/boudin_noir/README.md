@@ -15,3 +15,5 @@
 	* Embossez le tout dans du boyaux de porc
 	* Faites cuir dans une casserole d'eau fremissante (attention il ne faut pas de bouillon) pendant 20 à 30 minutes
 	* Réservez au frais
+
+![boudin](https://github.com/schermi/Schermiam-miam/raw/master/charcuterie/boudin_noir/IMG_1905.JPG)

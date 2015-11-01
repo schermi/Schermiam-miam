@@ -16,3 +16,4 @@
 	* Étuvez les saucissons à 60 °C 10-20 min
 	* Pendant au moins 15 jours laissez sécher et fumez un à deux jours pendant ce temps
 
+![saucisson à l'ail](https://github.com/schermi/Schermiam-miam/raw/master/charcuterie/saucissons/saucissons_ail/IMG_1914.JPG)

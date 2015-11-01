@@ -15,3 +15,5 @@
 	* Sortez la viande, les os et les légumes
 	* Hachez la viande et la recuire dans le bouillon avec les autres légumes jusqu'au premier bouillon
 	* Mettez en pot
+
+![fromage de tête](https://github.com/schermi/Schermiam-miam/raw/master/charcuterie/fromage_de_tete/IMG_1901.JPG)
