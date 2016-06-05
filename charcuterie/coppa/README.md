@@ -5,4 +5,5 @@
 	* Laissez sécher pendant 3 à 4 semaines
 
 * Photo :
-[!coppa](https://github.com/schermi/Schermiam-miam/raw/master/charcuterie/coppa/IMG_2104.JPG)
+
+![coppa](https://github.com/schermi/Schermiam-miam/raw/master/charcuterie/coppa/IMG_2104.JPG)

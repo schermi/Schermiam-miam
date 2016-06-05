@@ -22,5 +22,5 @@
 	* Verser 1cc de pâte dans chaque alvéole du moule à madeleine et poser 1 à 2 tranches de magret de canard.Recouvrir avec 1cc de pâte.
 	* Enfourner pour 4 minutes à 240°C puis 6 minutes à 180°C.
  
-* Photos :
+* Photo :
 ![madeleine_magret](https://github.com/schermi/Schermiam-miam/raw/master/madeleine_magret/IMG_2069.JPG)

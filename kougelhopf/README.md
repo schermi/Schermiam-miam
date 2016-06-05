@@ -16,7 +16,7 @@
 	* 60 g d'amandes douces
 
 * Recette :
-        * Faire fondre le beurre dans le lait tiède et le travailler avec la farine et les oeufs
+	* Faire fondre le beurre dans le lait tiède et le travailler avec la farine et les oeufs
 	* Ajouter la levure délayée dans un peu de lait
 	* Mettre un peu de sel (ne pas le mettre en contact direct avec la levure)
 	* Travailler la pâte avec les mains jusqu'à ce qu'elle se détache
@@ -26,5 +26,5 @@
 	* Ne pas heurter le gâteau en le mettant à four doux, puis chaud
 	* Servir poudré de sucre glace
 
-* Photos :
+* Photo :
 ![kougelhopf](https://github.com/schermi/Schermiam-miam/raw/master/kougelhopf/IMG_2141.JPG)
