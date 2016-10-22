@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Chorizo
+Intro: Recette de chorizo
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Chorizo
 * Ingrédients:
 	* 2,5 kg de porc assez gras

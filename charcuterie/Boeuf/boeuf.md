@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Boeuf séché
+Intro: Recette de boeuf séché
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Boeuf
 
 * Ingrédients :

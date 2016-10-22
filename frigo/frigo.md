@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Le frigo
+Intro: Les détails du frigo
+Tags: ustensiles
+Toc: yes
+Status: public
+
 # Le frigo
 
 * Le matériel :

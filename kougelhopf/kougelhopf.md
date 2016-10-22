@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Kougelhopf
+Intro: Recette de kougelhopf
+Tags: patisserie
+Toc: yes
+Status: public
+
 # Schermiam-miam
 ## Kougelhopf
 

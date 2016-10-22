@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Boudin noir
+Intro: Recette de boudin noir
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Boudin noir
 * Les ingrédients:
 	* 2,5 kg d'oignons

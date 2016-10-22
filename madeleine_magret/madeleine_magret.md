@@ -1,5 +1,9 @@
-# Schermiam-miam
-## Madeleine de magret
+Date: 2016-07-23
+Title: Madeleines aux magrets
+Intro: Recette de madeleines aux magrets
+Tags: patisserie
+Toc: yes
+Status: public
 
 * Prépation : 20 min
 * Cuisson : 10 min

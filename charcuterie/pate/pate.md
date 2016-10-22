@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Pâté
+Intro: Recette de pâté
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Pâté         
 * Les ingrédients :
 	* 2,8 kg de porc plutôt gras

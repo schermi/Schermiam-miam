@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Saucissons de papi
+Intro: Recette des saucissons de papi
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Saucissons porc boeuf, les saucissons de papi
 * Ingrédients:
 	* 1/3 de maigre de porc

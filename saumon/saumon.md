@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Saumon fumé
+Intro: Recette de saumon fumé
+Tags: poisson
+Toc: yes
+Status: public
+
 # Schermiam-miam
 ## Saumon
 

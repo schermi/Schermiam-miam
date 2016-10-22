@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Jambon cuit
+Intro: Recette de jambon cuit
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Jambon cuit 
 * Salaison:
 	* Mettre le jambon désossé dans une salaison avec des baies, herbes, laurier, poivres pendant 10 jours. Bien recouvrir la viande et retirer le jus au moins une fois par jour.

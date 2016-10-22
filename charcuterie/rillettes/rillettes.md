@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Rillettes
+Intro: Recettes de rillettes
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Rillettes         
 * Ingrédients:
 	* 2,5 kg de porc gras (chute, os, ...)

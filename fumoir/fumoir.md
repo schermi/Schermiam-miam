@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Le fumoir
+Intro: Détails du fumoir
+Tags: ustensiles
+Toc: yes
+Status: public
+
 # Schermiam-miam
 ## Fumoir
 ### Le matériel :

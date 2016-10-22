@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Fromage fumé
+Intro: Recette de fromage fumé
+Tags: fromage
+Toc: yes
+Status: public
+
 # Fromage
 
 * Préparation :

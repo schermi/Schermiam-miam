@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Fromage de tête
+Intro: Recette de fromage de tête
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Fromage de tête
 * Ingrédients:
 	* Une tête de porc

@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Saucissons à l'ail
+Intro: Recettes de saucissons à l'ail
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Saucissons à l'ail
 * Ingrédients:
 	* 2 kg de porc assez gras

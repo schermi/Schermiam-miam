@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Magret
+Intro: Recette de magret
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Schermiam-miam
 ## Magret
 

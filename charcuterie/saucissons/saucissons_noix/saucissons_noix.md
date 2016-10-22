@@ -1,3 +1,10 @@
+Date: 2016-07-23
+Title: Saucissons aux noix
+Intro: Recette de saucissons aux noix
+Tags: charcuterie
+Toc: yes
+Status: public
+
 # Saucissons porc noix
 * Ingrédients:
 	* 1,5 kg de porc assez gras
