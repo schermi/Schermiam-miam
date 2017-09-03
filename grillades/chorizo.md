@@ -1,5 +1,5 @@
 Date: 2017-09-03
-Title: Chipolata
+Title: Chorizo
 Intro: Chorizo à griller
 Tags: grillades
 Toc: yes
